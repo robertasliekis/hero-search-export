@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hero-search/static/css/main.b97fd215.chunk.css",
+    "main.js": "/hero-search/static/js/main.58b32217.chunk.js",
+    "main.js.map": "/hero-search/static/js/main.58b32217.chunk.js.map",
+    "runtime-main.js": "/hero-search/static/js/runtime-main.cc00b252.js",
+    "runtime-main.js.map": "/hero-search/static/js/runtime-main.cc00b252.js.map",
+    "static/js/2.42b06f48.chunk.js": "/hero-search/static/js/2.42b06f48.chunk.js",
+    "static/js/2.42b06f48.chunk.js.map": "/hero-search/static/js/2.42b06f48.chunk.js.map",
+    "index.html": "/hero-search/index.html",
+    "precache-manifest.67442bc4db8d1214593e3cf34685c950.js": "/hero-search/precache-manifest.67442bc4db8d1214593e3cf34685c950.js",
+    "service-worker.js": "/hero-search/service-worker.js",
+    "static/css/main.b97fd215.chunk.css.map": "/hero-search/static/css/main.b97fd215.chunk.css.map",
+    "static/js/2.42b06f48.chunk.js.LICENSE.txt": "/hero-search/static/js/2.42b06f48.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hero-search/static/media/marvel-logo.a1409b3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc00b252.js",
+    "static/js/2.42b06f48.chunk.js",
+    "static/css/main.b97fd215.chunk.css",
+    "static/js/main.58b32217.chunk.js"
+  ]
+}
